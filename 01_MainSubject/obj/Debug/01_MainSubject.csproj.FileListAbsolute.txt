@@ -1,0 +1,7 @@
+C:\Users\LENOVO 2022\Documents\GİTHUB\CSharpEgitimKampi\01_MainSubject\bin\Debug\01_MainSubject.exe.config
+C:\Users\LENOVO 2022\Documents\GİTHUB\CSharpEgitimKampi\01_MainSubject\bin\Debug\01_MainSubject.exe
+C:\Users\LENOVO 2022\Documents\GİTHUB\CSharpEgitimKampi\01_MainSubject\bin\Debug\01_MainSubject.pdb
+C:\Users\LENOVO 2022\Documents\GİTHUB\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.csproj.AssemblyReference.cache
+C:\Users\LENOVO 2022\Documents\GİTHUB\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO 2022\Documents\GİTHUB\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.exe
+C:\Users\LENOVO 2022\Documents\GİTHUB\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.pdb

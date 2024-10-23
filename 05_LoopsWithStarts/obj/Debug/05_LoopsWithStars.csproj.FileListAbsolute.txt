@@ -1,0 +1,7 @@
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe.config
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.pdb
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\05_LoopsWithStarts\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\05_LoopsWithStarts\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.exe
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.pdb

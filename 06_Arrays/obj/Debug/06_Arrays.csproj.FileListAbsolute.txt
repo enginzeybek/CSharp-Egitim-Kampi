@@ -1,0 +1,7 @@
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb
