@@ -53,3 +53,15 @@ Burada `foreach` döngüsüne ayrıntılarıyla tanıdık. `Foreach` kullanarak 
 ### 📖 Methods
 
 Benim kafamı karıştıran konulardan biri olan methodlar dersinde, kafamda hatırlayamadığım yerleri tekrar ettiğim bir ders oldu. Methodları daha iyi tanıdım bu dersle. Hem parametreli hem de parametresiz void ve değer döndüren methodları tanıdık bu derste.
+
+---
+
+### 📖 Database Project
+
+Bu derste ADO.NET kütüphanesini kullanarak SQL tarafında oluşturduğumuz ve içerlerine veri girişi yaptığımız tabloları konsol ekranına yazdırdık.
+
+---
+
+### 📖 Database CRUD(Create,Read,Update,Delete)
+
+Bu derste bir önceki derste oluşturduğumuz veri tabanı üzerinde işlemler yaptık. ADO.NET kütüphanesini kullanarak SQL tablolara bağlandık ve bu tablolar üzerinde read,update,delete,create sorgularını kullanarak konsol ekranında gösterdik.
